@@ -4,7 +4,7 @@
 The E-commerce dashboard presents a succinct overview of sales performance and customer demographics. This platform enables users to uncover detailed insights by leveraging more granular data, ultimately guiding business actions, particularly concerning sales categories, delivery, and payment.
 The data can be found [here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/code). 
 
-I tried to approach the case as a data analysis, who create the dashboard, walk the stakeholders through insights and actions can be derived from it. I also want this dashboard to be more bias for action, therefore I suggest some way to improve the dataset quality to give a broader view about the performance.
+I tried to approach the case as a data analyst, who create the dashboard, walk the stakeholders through insights and actions can be derived from it. I also want this dashboard to be more bias for action, therefore I suggest some way to improve the dataset quality to give a broader view about the performance.
 
 # B. Main questions
 Based on the data, there are 2 big questions 
